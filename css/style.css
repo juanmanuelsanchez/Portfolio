@@ -1,0 +1,48 @@
+ /*Google fonts*/
+ @import url(http://fonts.googleapis.com/css?family=Lato:100,300);
+
+/*Body*/
+ body {
+
+    color: #770;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+ }
+
+/*Horizontal line*/
+hr {
+
+    border-color:  #bbb;
+    border-width: 10px;
+}
+
+/*Text classes*/
+.text-muted {
+
+  color:  #bbb;
+}
+
+.text-thin {
+
+  font-weight: 100;
+}
+
+.title-super {
+
+  font-size: 60px;
+}
+
+/*Margin for the logo*/
+.title-logo {
+
+  margin-top: 20px;
+}
+
+/*Images IDs for modal display */
+#Appify:hover, 
+#Bokeh:hover,
+#Sunflower:hover {
+
+    opacity: .7;
+}
+
